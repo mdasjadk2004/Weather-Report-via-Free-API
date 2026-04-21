@@ -17,6 +17,36 @@ This project is an interactive Weather Dashboard built using Power BI, integrati
 - 🎯 Interactive and modern UI design
 
 ---
+## 🔗 Data Source
+
+This project uses real-time data from the WeatherAPI:
+
+Base API Endpoint:
+http://api.weatherapi.com/v1/forecast.json
+
+### 🌍 Cities Used
+
+Below are the sample API endpoints used in this project:
+
+#### 📍 New Delhi
+http://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=New Delhi&days=7&aqi=yes&alerts=no
+
+#### 📍 Lucknow
+http://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=Lucknow&days=7&aqi=yes&alerts=no
+
+#### 📍 Shimla
+http://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=Shimla&days=7&aqi=yes&alerts=no
+
+#### 📍 Hyderabad
+http://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=Hyderabad&days=7&aqi=yes&alerts=no
+
+#### 📍 Kanpur
+http://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=Kanpur&days=7&aqi=yes&alerts=no
+
+#### 📍 Jammu
+http://api.weatherapi.com/v1/forecast.json?key=YOUR_API_KEY&q=Jammu&days=7&aqi=yes&alerts=no
+
+---
 
 ## 📊 Dashboard Highlights
 - KPI Cards for quick insights
